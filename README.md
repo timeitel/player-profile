@@ -1,3 +1,3 @@
-# Poker Night
+# Profile Screen
 
-A mobile app for counting the amounts of chips and total chip value within a picture as well as a scoreboard.
+A stateful widget for updating the winnings count of a player in a poker tournament.
