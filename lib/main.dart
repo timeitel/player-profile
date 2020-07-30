@@ -13,17 +13,7 @@ class Home extends StatelessWidget {
         centerTitle: true,
         backgroundColor: Colors.amber[300],
       ),
-      body: Center(
-        child: Text(
-          'Tournament',
-          style: TextStyle(
-              fontSize: 30.0,
-              fontWeight: FontWeight.bold,
-              letterSpacing: 2.0,
-              color: Colors.grey[800],
-              fontFamily: 'Raleway'),
-        ),
-      ),
+      body: Center(child: Image.asset('assets/2.jpg')),
       floatingActionButton: FloatingActionButton(
         onPressed: () {},
         child: Text('+'),
